@@ -1,0 +1,29 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: false
+
+# Setup
+title:            Prüfung
+description:          'Eine Sammlung von Zusammenfassungen, die der Vorbereitung für die IHK-Abschlussprüfung für die Ausbildung Fachinformatiker Anwendungsentwicklung dient.'
+url:              http://hyde.getpoole.com
+baseurl:          /
+
+author:
+  name:           'Marlon Neumann'
+  
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/rynnon/Zusammenfassungen
+
+
+exclude: [vendor]
+
+gems: [jekyll-paginate]

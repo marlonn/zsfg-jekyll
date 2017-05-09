@@ -19,6 +19,13 @@ Wird für Software-Systeme verwendet, die Datenströme verarbeiten. Jeder Verarb
 
 **Model-View-Controller (MVC):**
 
+**MVVM:**
+
+**REST:**
+
+**Microservices:**
+
+
 Begriffszuordnung:
 <table><tr><th>Architekturmuster</th><th>Begrifflichkeit</th></tr>
 <tr><td>Schichtenarchitekturmuster</td><td>Präsentation, three tier, Client-Server, Geschäftslogik, Steuerung</td></tr>

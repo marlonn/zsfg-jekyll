@@ -94,3 +94,7 @@ Nach dem Abschluss eines Sprints findet eine **Retrospektive** statt, bei der je
 ### **Test-driven Development (TDD)**
 
 Definiert die Testfälle vor der eigentlichen Implementierung. Ein sehr bekanntes Verfahren ist das Uni-Testing. Dabei werden zuerst Tests für die zu entwickelnden Komponenten (Units) entwickelt und anschließend werden die Komponenten implementiert. Frameworks wie JUnit (unter Java) unterstützen diese Methode. Meistens werden Unit-Tests in der agilen Entwicklung eingesetzt (bspw. beim *extreme Programming*)
+
+### **Kanban**
+
+### **Spiralmodell**

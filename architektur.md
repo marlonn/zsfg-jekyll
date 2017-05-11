@@ -19,6 +19,16 @@ Wird für Software-Systeme verwendet, die Datenströme verarbeiten. Jeder Verarb
 
 **Model-View-Controller (MVC):**
 
+Kersken (im Zusammenhang mit Ruby on Rails):
+
+
+* Das **Model** bildet die zugrunde liegende Datenstruktur: In Rails basiert sie auf einer relationalen Datenbank, wobei jede Tabelle automatisch einer Ruby-Klasse zugeordnet wird.
+
+* Der **View** ist die Darstellung oder Präsentation der Datenstruktur: Dafür wird eRuby (embedded Ruby) verwendet, das heißt HTML-Code, in den ähnlich wie bei PHP Ruby hineingeschrieben wird. Um den View von komplexer Programmierung freizuhalten, bietet Rails die Möglichkeit, zusätzlich sogenannte Helpers (Helfermethoden) dafür zu erstellen. Rails kann dabei nicht nur statisches HTML rendern, sondern enthält auch eingebaute Unterstützung für Ajax (siehe Kapitel 19, »JavaScript und Ajax«).
+
+* Der **Controller** schließlich enthält die eigentliche Programmlogik: Wenn der Benutzer Formularelemente im View verwendet, bestimmt der Controller-Code, was mit den Daten des Models geschehen soll.
+
+
 **MVVM:**
 
 **REST:**
